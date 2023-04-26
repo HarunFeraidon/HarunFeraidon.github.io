@@ -1,3 +1,7 @@
+body {
+    background-color: #FAF9F6;
+}
+
 h1::before {
     transform: scaleX(0);
     transform-origin: bottom right;
